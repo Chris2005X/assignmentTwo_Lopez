@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MovieSearcher</string>
+    <string name="movie_poster_desc">Movie Poster</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_year">Movie Year</string>
+    <string name="movie_studio">Movie Studio</string>
+    <string name="movie_rating">Movie Rating</string>
+    <string name="movie_plot">Movie Plot</string>
+    <string name="back_button">Back</string>
+    <string name="search_button">Search</string>
+    <string name="year_placeholder">Year: %1$s</string>
+    <string name="rating_placeholder">Rating: %1$s</string>
+    <string name="plot_placeholder">Plot: %1$s</string>
+    <string name="studio_placeholder">Studio: %1$s</string>
+</resources>
